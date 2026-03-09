@@ -99,21 +99,22 @@ permalink: /school-life/
 <section class="section section-light">
   <div class="container">
     <div class="section-header">
-      <span class="section-label">Photo Gallery</span>
-      <h2>Moments from Our School</h2>
-      <p>Add photos from school events, classes and activities here.</p>
+      <span class="section-label">School Events</span>
+      <h2>Melbourne-i Könyvmolyok — Book Worm Competition 2023</h2>
+      <p>
+        On 7 October 2023, nearly 40 young readers and their families gathered for our annual
+        book-reading competition. Students completed reading comprehension tasks and showcased
+        creative projects inspired by Hungarian children's books — a joyful celebration of
+        language and imagination.
+      </p>
     </div>
 
-    <div class="gallery-grid">
-      <div class="gallery-item">Photo 1<br><small>Cultural celebration</small></div>
-      <div class="gallery-item">Photo 2<br><small>Classroom activity</small></div>
-      <div class="gallery-item">Photo 3<br><small>School camp</small></div>
-      <div class="gallery-item">Photo 4<br><small>Bookworm competition</small></div>
-      <div class="gallery-item">Photo 5<br><small>End-of-year concert</small></div>
-      <div class="gallery-item">Photo 6<br><small>Cultural performance</small></div>
-      <div class="gallery-item">Photo 7<br><small>Library time</small></div>
-      <div class="gallery-item">Photo 8<br><small>Art &amp; craft</small></div>
-      <div class="gallery-item">Photo 9<br><small>Community event</small></div>
+    <div class="grid-3" style="gap:1rem;margin-bottom:1.5rem;">
+      <img src="{{ '/assets/images/konyvmolyok/group-photo.jpg' | relative_url }}" alt="Group photo from the Könyvmolyok book competition" style="width:100%;border-radius:8px;object-fit:cover;aspect-ratio:4/3;">
+      <img src="{{ '/assets/images/konyvmolyok/competition-1.jpg' | relative_url }}" alt="Families and students at the Könyvmolyok reading competition" style="width:100%;border-radius:8px;object-fit:cover;aspect-ratio:4/3;">
+      <img src="{{ '/assets/images/konyvmolyok/prizes-1.jpg' | relative_url }}" alt="Prize-giving at the Könyvmolyok competition" style="width:100%;border-radius:8px;object-fit:cover;aspect-ratio:4/3;">
+      <img src="{{ '/assets/images/konyvmolyok/book-projects.jpg' | relative_url }}" alt="Creative book projects made by students for the Könyvmolyok competition" style="width:100%;border-radius:8px;object-fit:cover;aspect-ratio:4/3;">
+      <img src="{{ '/assets/images/konyvmolyok/competition-2.jpg' | relative_url }}" alt="Students at the Könyvmolyok reading competition" style="width:100%;border-radius:8px;object-fit:cover;aspect-ratio:4/3;">
     </div>
 
     <p style="text-align:center;font-size:.85rem;color:var(--color-text-light);margin-top:1.5rem;">
