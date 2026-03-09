@@ -860,7 +860,7 @@ p:last-child { margin-bottom: 0; }
    ============================================================ */
 
 .site-footer {
-  background: radial-gradient(at center center, #388D00 0%, #225600 100%);
+  background: var(--color-bg-dark);
   color: rgba(255,255,255,0.75);
   padding: 3.5rem 0 0;
 }
@@ -872,6 +872,13 @@ p:last-child { margin-bottom: 0; }
   padding-bottom: 2.5rem;
 }
 
+
+.footer-logo {
+  display: inline-flex;
+  background: #fff;
+  border-radius: 10px;
+  padding: 8px 10px;
+}
 
 .footer-tagline {
   font-size: 0.85rem;
@@ -908,7 +915,7 @@ p:last-child { margin-bottom: 0; }
   color: rgba(255,255,255,0.7);
 }
 
-.footer-contact-item span:first-child { opacity: 0.5; font-size: 0.9rem; flex-shrink: 0; margin-top: 2px; }
+.footer-contact-item span:first-child { font-size: 0.9rem; flex-shrink: 0; margin-top: 2px; }
 
 .footer-bottom {
   border-top: 1px solid rgba(255,255,255,0.08);
