@@ -41,8 +41,7 @@ The site will be available at `http://localhost:4000`.
 ├── about-us.md          # About Us page
 ├── enrolments.md        # Enrolments page
 ├── community.md         # Community page
-├── school-life.md       # School Life page
-└── contact-us.md        # Contact Us page
+├── contact-us.md        # Contact Us page
 ```
 
 ## Pages
