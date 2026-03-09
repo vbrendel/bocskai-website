@@ -8,16 +8,6 @@ permalink: /library/
 
 <section class="section">
   <div class="container">
-    <div class="section-header">
-      <h2>Our Library Collection</h2>
-      <p>
-        The Bocskai Hungarian School library holds nearly 1,000 Hungarian children's books
-        across five reading levels — from picture books for toddlers to chapter books for teens.
-        Students can borrow books to take home and keep the language alive between classes.
-        Library membership is included with enrolment.
-      </p>
-    </div>
-
     <div style="display:flex;gap:2rem;align-items:center;margin-bottom:2rem;flex-wrap:wrap;">
       <div style="flex:1;min-width:260px;">
         <img src="{{ '/assets/images/bocskai-library.png' | relative_url }}" alt="Bocskai Hungarian School library" style="width:100%;border-radius:8px;object-fit:cover;">
@@ -27,7 +17,6 @@ permalink: /library/
         <a href="{{ site.library_url }}" target="_blank" rel="noopener" class="btn btn-primary" style="align-self:flex-start;">Open Library Catalogue</a>
       </div>
     </div>
-
   </div>
 </section>
 
@@ -38,6 +27,7 @@ permalink: /library/
       <p>From classic Hungarian fairy tales to picture books, nursery rhymes, and chapter books — here's a glimpse of what you'll find.</p>
     </div>
 
+    <div style="max-width:700px;margin:0 auto;">
     <div class="book-grid">
 
       <div class="book-item">
@@ -100,6 +90,10 @@ permalink: /library/
         <span class="book-item-title">Malacka és barátai</span>
       </div>
 
+    </div>
+    </div>
+    <div style="text-align:center;margin-top:2rem;">
+      <a href="{{ site.library_url }}" target="_blank" rel="noopener" class="btn btn-primary">Open Library Catalogue</a>
     </div>
   </div>
 </section>
