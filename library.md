@@ -28,15 +28,99 @@ permalink: /library/
       </div>
     </div>
 
-    <iframe
-      src="{{ site.library_url }}"
-      width="100%"
-      height="1024px"
-      style="border:none">
-    </iframe>
-
-    <p style="text-align:center;margin-top:1.5rem;">
-      <a href="{{ site.library_url }}" target="_blank" rel="noopener" class="btn btn-primary">Open Library Catalogue in New Tab</a>
-    </p>
   </div>
 </section>
+
+<section class="section" style="background:var(--color-bg-alt);">
+  <div class="container">
+    <div class="section-header">
+      <h2>A Taste of Our Shelves</h2>
+      <p>From classic Hungarian fairy tales to picture books, nursery rhymes, and chapter books — here's a glimpse of what you'll find.</p>
+    </div>
+
+    <div class="book-grid">
+
+      <div class="book-item">
+        <img src="https://pics.cdn.librarything.com/picsizes/12/23/12230221-b-h200-w100-pv25_596b32657567426b414d6741_v5.jpg" alt="Állatmamák és állatbébik">
+        <span class="book-item-title">Állatmamák és állatbébik</span>
+      </div>
+
+      <div class="book-item">
+        <img src="https://pics.cdn.librarything.com/picsizes/12/95/12957505-b-h200-w100-pv25_596b47337851426b414d6741_v5.jpg" alt="Kippkopp a hóban">
+        <span class="book-item-title">Kippkopp a hóban</span>
+      </div>
+
+      <div class="book-item">
+        <img src="https://pics.cdn.librarything.com/picsizes/12/96/12967736-b-h200-w100-pv25_596a6a667851426b414d6741_v5.jpg" alt="Pöttyös Panni naplója">
+        <span class="book-item-title">Pöttyös Panni naplója</span>
+      </div>
+
+      <div class="book-item">
+        <img src="https://pics.cdn.librarything.com/picsizes/12/96/12967748-b-h200-w100-pv25_596b54667851426b414d6741_v5.jpg" alt="Hófehérke">
+        <span class="book-item-title">Hófehérke</span>
+      </div>
+
+      <div class="book-item">
+        <img src="https://pics.cdn.librarything.com/picsizes/16/55/16553183-b-h200-w100-pv25_59742b552f41426b414d6741_v5.jpg" alt="Mondák Szent István királyról">
+        <span class="book-item-title">Mondák Szent István királyról</span>
+      </div>
+
+      <div class="book-item">
+        <img src="https://pics.cdn.librarything.com/picsizes/16/66/16668260-b-h200-w100-pv25_596d52572f67426b414d6741_v5.jpg" alt="Gyerekdalok és mondókák">
+        <span class="book-item-title">Gyerekdalok és mondókák</span>
+      </div>
+
+      <div class="book-item">
+        <img src="https://pics.cdn.librarything.com/picsizes/16/56/16563241-b-h200-w100-pv25_59696d382f41426b414d6741_v5.jpg" alt="Mondókáskönyv 1.">
+        <span class="book-item-title">Mondókáskönyv 1.</span>
+      </div>
+
+      <div class="book-item">
+        <img src="https://pics.cdn.librarything.com/picsizes/16/70/16705053-b-h200-w100-pv25_5968336d2f67426b414d6741_v5.png" alt="Leszel a padtársam?">
+        <span class="book-item-title">Leszel a padtársam?</span>
+      </div>
+
+      <div class="book-item">
+        <img src="https://pics.cdn.librarything.com/picsizes/16/56/16565328-b-h200-w100-pv25_596c44452f41426b414d6741_v5.jpg" alt="Ali Baba és a negyven rabló">
+        <span class="book-item-title">Ali Baba és a negyven rabló</span>
+      </div>
+
+      <div class="book-item">
+        <img src="https://pics.cdn.librarything.com/picsizes/16/66/16668270-b-h200-w100-pv25_596d35572f67426b414d6741_v5.jpg" alt="A kis szürke nyúl">
+        <span class="book-item-title">A kis szürke nyúl</span>
+      </div>
+
+      <div class="book-item">
+        <img src="https://pics.cdn.librarything.com/picsizes/16/55/16552900-b-h200-w100-pv25_597353542f41426b414d6741_v5.jpg" alt="Boróka világot lát">
+        <span class="book-item-title">Boróka világot lát</span>
+      </div>
+
+      <div class="book-item">
+        <img src="https://pics.cdn.librarything.com/picsizes/16/61/16616707-b-h200-w100-pv25_59674f4e2f51426b414d6741_v5.jpg" alt="Malacka és barátai">
+        <span class="book-item-title">Malacka és barátai</span>
+      </div>
+
+      <div class="book-item">
+        <img src="https://covers.openlibrary.org/b/id/8956366-M.jpg" alt="Vuk">
+        <span class="book-item-title">Vuk</span>
+      </div>
+
+      <div class="book-item">
+        <img src="https://covers.openlibrary.org/b/id/7819755-M.jpg" alt="A Pál utcai fiúk">
+        <span class="book-item-title">A Pál utcai fiúk</span>
+      </div>
+
+      <div class="book-item">
+        <img src="https://covers.openlibrary.org/b/id/4775435-M.jpg" alt="Nagy mesekönyv">
+        <span class="book-item-title">Nagy mesekönyv</span>
+      </div>
+
+      <div class="book-item">
+        <img src="https://covers.openlibrary.org/b/id/13823324-M.jpg" alt="Tüskevár">
+        <span class="book-item-title">Tüskevár</span>
+      </div>
+
+    </div>
+  </div>
+</section>
+
