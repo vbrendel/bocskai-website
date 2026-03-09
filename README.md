@@ -53,21 +53,8 @@ The site will be available at `http://localhost:4000`.
 | Enrolments | `/enrolments/` | Enrolment steps, schedule, fees |
 | Community | `/community/` | Facebook, volunteering, wider community |
 | School Life | `/school-life/` | Events, gallery, school year calendar |
-| About Us | `/about-us/` | History, class programs, library, governance |
-| Contact Us | `/contact-us/` | Contact form, contact details, map |
 
 The Library links externally to the URL set in `library_url` in `_config.yml`.
-
-## Customisation
-
-### Contact Form
-The contact form in `contact-us.md` uses a Formspree placeholder. Replace `your-form-id` with your actual [Formspree](https://formspree.io) form ID, or swap for another form backend.
-
-### Images
-Image placeholders are scattered throughout the pages. Replace the placeholder `<div class="split-image">` elements with actual `<img>` tags pointing to images in `assets/images/`.
-
-### Google Maps
-The map placeholder in `contact-us.md` can be replaced with a Google Maps embed iframe.
 
 ### Colours & Fonts
 All design tokens are CSS custom properties at the top of `assets/css/main.scss`:
