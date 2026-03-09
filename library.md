@@ -18,8 +18,14 @@ permalink: /library/
       </p>
     </div>
 
-    <div style="margin-bottom:2rem;">
-      <img src="{{ '/assets/images/bocskai-library.png' | relative_url }}" alt="Bocskai Hungarian School library" style="width:100%;border-radius:8px;object-fit:cover;">
+    <div style="display:flex;gap:2rem;align-items:center;margin-bottom:2rem;flex-wrap:wrap;">
+      <div style="flex:1;min-width:260px;">
+        <img src="{{ '/assets/images/bocskai-library.png' | relative_url }}" alt="Bocskai Hungarian School library" style="width:100%;border-radius:8px;object-fit:cover;">
+      </div>
+      <div style="flex:1;min-width:260px;display:flex;flex-direction:column;gap:1rem;">
+        <p>Browse our full catalogue online and find your next Hungarian read. Students can borrow books to take home — library membership is included with enrolment.</p>
+        <a href="{{ site.library_url }}" target="_blank" rel="noopener" class="btn btn-primary" style="align-self:flex-start;">Open Library Catalogue</a>
+      </div>
     </div>
 
     <iframe
