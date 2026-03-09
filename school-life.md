@@ -174,7 +174,7 @@ permalink: /school-life/
     </p>
     <div class="hero-cta">
       <a href="{{ '/enrolments/' | relative_url }}" class="btn btn-light">Enrolment Information</a>
-      <a href="{{ '/contact-us/' | relative_url }}" class="btn btn-outline">Contact Us</a>
+      <a href="{{ site.facebook_url }}" target="_blank" rel="noopener" class="btn btn-outline">Contact Us</a>
     </div>
   </div>
 </section>

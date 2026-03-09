@@ -74,7 +74,7 @@ permalink: /community/
           </ul>
           <p style="margin-top:1rem;font-size:.9rem;color:var(--color-text-light);">
             Enrolled families are automatically added to our mailing list. To update your
-            contact details, please <a href="{{ '/contact-us/' | relative_url }}">contact us</a>.
+            contact details, please <a href="{{ site.facebook_url }}" target="_blank" rel="noopener">contact us</a>.
           </p>
         </div>
       </div>
@@ -163,7 +163,7 @@ permalink: /community/
     </div>
 
     <div class="text-center mt-2">
-      <a href="{{ '/contact-us/' | relative_url }}" class="btn btn-primary">Get in Touch to Volunteer</a>
+      <a href="{{ site.facebook_url }}" target="_blank" rel="noopener" class="btn btn-primary">Get in Touch to Volunteer</a>
     </div>
   </div>
 </section>

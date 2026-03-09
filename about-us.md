@@ -281,7 +281,7 @@ permalink: /about-us/
     </p>
     <div class="hero-cta">
       <a href="{{ '/enrolments/' | relative_url }}" class="btn btn-light">Enrol Now</a>
-      <a href="{{ '/contact-us/' | relative_url }}" class="btn btn-outline">Get in Touch</a>
+      <a href="{{ site.facebook_url }}" target="_blank" rel="noopener" class="btn btn-outline">Get in Touch</a>
     </div>
   </div>
 </section>
