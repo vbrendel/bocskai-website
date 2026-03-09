@@ -1,0 +1,27 @@
+title: Bocskai Hungarian School
+description: >-
+  The Bocskai Hungarian School is an accredited, community language school
+  located in Melbourne, Australia. We provide Hungarian language and culture
+  classes from baby playgroup to high school taught exclusively by qualified
+  native teachers.
+url: "https://www.bocskaihungarianschool.com.au"
+baseurl: ""
+
+email: bocskaischool@gmail.com
+phone: "0408 950 491"
+address: "123 St Georges Road, Fitzroy North (Melbourne), VIC 3068"
+facebook_url: "https://www.facebook.com/bocskaischool/"
+library_url: "https://www.librarycat.org/lib/Bocskai/"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+permalink: pretty
