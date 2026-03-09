@@ -100,26 +100,6 @@ permalink: /library/
         <span class="book-item-title">Malacka és barátai</span>
       </div>
 
-      <div class="book-item">
-        <img src="https://covers.openlibrary.org/b/id/8956366-M.jpg" alt="Vuk">
-        <span class="book-item-title">Vuk</span>
-      </div>
-
-      <div class="book-item">
-        <img src="https://covers.openlibrary.org/b/id/7819755-M.jpg" alt="A Pál utcai fiúk">
-        <span class="book-item-title">A Pál utcai fiúk</span>
-      </div>
-
-      <div class="book-item">
-        <img src="https://covers.openlibrary.org/b/id/4775435-M.jpg" alt="Nagy mesekönyv">
-        <span class="book-item-title">Nagy mesekönyv</span>
-      </div>
-
-      <div class="book-item">
-        <img src="https://covers.openlibrary.org/b/id/13823324-M.jpg" alt="Tüskevár">
-        <span class="book-item-title">Tüskevár</span>
-      </div>
-
     </div>
   </div>
 </section>
